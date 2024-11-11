@@ -2,6 +2,8 @@
 
 A creative multi-purpose website template built using **HTML**, **CSS**, and **Bootstrap**. This project is designed to showcase modern and responsive web design principles with customizable sections, including pricing tables, testimonials, a contact form, and more.
 
+---
+
 ## Table of Contents
 
 - [Demo](#demo)
@@ -16,7 +18,7 @@ A creative multi-purpose website template built using **HTML**, **CSS**, and **B
 
 ## Demo
 
-[Click here to view the live demo](#)
+[Click here to view the live demo](#) *(Insert the live demo link here)*
 
 ---
 
@@ -25,7 +27,7 @@ A creative multi-purpose website template built using **HTML**, **CSS**, and **B
 - **Responsive Design**: Works seamlessly across devices (mobile, tablet, and desktop).
 - **Dynamic Carousel**: Rotating testimonial slider with smooth transitions.
 - **Interactive Pricing Table**: Showcasing plans with highlighted featured options.
-- **Contact Form**: Built-in form for collecting user information.
+- **Contact Form**: Built-in form for collecting user inquiries.
 - **Google Maps Integration**: Display your location with an interactive map.
 - **Modern Design**: Clean and professional layout with consistent typography.
 
@@ -33,17 +35,16 @@ A creative multi-purpose website template built using **HTML**, **CSS**, and **B
 
 ## Technologies Used
 
-- **HTML5**: Semantic structure and layout.
-- **CSS3**: Styling with animations and custom effects.
-- **Bootstrap 5**: For grid system and prebuilt components.
-- **JavaScript**: For interactive and dynamic features.
+- **HTML5**: For structuring the website content.
+- **CSS3**: For designing and styling.
+- **Bootstrap 5**: For responsive layout and pre-designed components.
+- **JavaScript**: For adding interactivity.
+- **Google Maps API**: For embedding interactive maps.
 
 ---
 
 ## Installation
 
-To use this project locally, follow these steps:
-
-1. Clone the repository:
+1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/bezel.git
+   git clone https://github.com/mariamelashkar/bezel.git
